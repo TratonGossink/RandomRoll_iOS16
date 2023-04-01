@@ -58,13 +58,37 @@
 			children = (
 				E586F6EA29D2551C0072F198 /* AppDelegate.swift */,
 				E586F6EC29D2551C0072F198 /* SceneDelegate.swift */,
-				E586F6EE29D2551C0072F198 /* ViewController.swift */,
-				E586F6F029D2551C0072F198 /* Main.storyboard */,
+				E5A4CFC729D43A1100E60B34 /* View */,
+				E5A4CFC629D43A0600E60B34 /* Controller */,
+				E5A4CFC529D439F800E60B34 /* Model */,
 				E586F6F329D2551C0072F198 /* Assets.xcassets */,
 				E586F6F529D2551C0072F198 /* LaunchScreen.storyboard */,
 				E586F6F829D2551C0072F198 /* Info.plist */,
 			);
 			path = RandomRoll;
+			sourceTree = "<group>";
+		};
+		E5A4CFC529D439F800E60B34 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		E5A4CFC629D43A0600E60B34 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+				E586F6EE29D2551C0072F198 /* ViewController.swift */,
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		E5A4CFC729D43A1100E60B34 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				E586F6F029D2551C0072F198 /* Main.storyboard */,
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
