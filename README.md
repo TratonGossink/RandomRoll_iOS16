@@ -5,9 +5,7 @@ A simple dice rolling app with score display.
 
 Rondom Roller is a project I created to practice my iOS skills on my learning journey. I decided to take the concenpt of a beginner app and make it my own by adding a score call out. 
 
-
-![image](https://user-images.githubusercontent.com/79613749/229480450-4e162aa0-ef49-4b16-ab76-1717494c8756.png)
-
+![RandomRoller](https://user-images.githubusercontent.com/79613749/230903760-06d2ba7d-fe01-49dd-bba4-8750965e9f93.png)
 
 ## User Installation:
 
