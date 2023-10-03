@@ -3,7 +3,7 @@ A simple dice rolling app with score display.
 
 ## About
 
-Rondom Roller app is a part of my online iOS development bootcamp from Angela Yu on Udemy. I decided to take the concept of a beginner app and make it my own. Some of the skills learned from this project: image manipulation, string interpulation, button assignment and functionality. 
+Rondom Roller app is a part of my online iOS development bootcamp from Angela Yu on Udemy. I decided to take the concept of a beginner app and make it my own by designing the UI and implementing the score. Some of the skills learned from this project: image manipulation, string interpulation, button assignment and functionality. 
 
 ![RandomRoller](https://user-images.githubusercontent.com/79613749/230903760-06d2ba7d-fe01-49dd-bba4-8750965e9f93.png)
 
